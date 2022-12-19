@@ -9,11 +9,11 @@ Projeto desenvolvido com as seguintes tecnologias:
 - React Hook Form
 - Styled Components
 - React Router Dom
-- EsLint
+- Zod (validação de formulário)
 
 ## 💻 Projeto
 
-A aplicacao tem como objetivo treinar e aprender sobre as mais variadas ferramentas do ReactJs durante essa trilha.
+A aplicação tem como objetivo treinar e aprender sobre as mais variadas ferramentas do ReactJs durante essa trilha.
 
 ## 🔖 Layout
 
