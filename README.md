@@ -10,6 +10,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 - Styled Components
 - React Router Dom
 - Zod (validação de formulário)
+- Date-fns (formatação de datas)
 
 ## 💻 Projeto
 
