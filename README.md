@@ -9,8 +9,9 @@ Projeto desenvolvido com as seguintes tecnologias:
 - React Hook Form
 - Styled Components
 - React Router Dom
-- Zod (validação de formulário)
-- Date-fns (formatação de datas)
+- Zod (lib para validação de formulário)
+- Date-fns (lib para formatação de datas)
+- immer (lib para trabalhar com dados imutáveis)
 
 ## 💻 Projeto
 
